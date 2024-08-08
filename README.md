@@ -78,7 +78,7 @@ Install XAMPP (via Chocalatey, if you don't have it).
 Start the server.
 
 ```bash
-  npm run start
+    [Directory]/[ServerName]/apache-start.bat
 ```
 
 **PS:** If you trust your web skills, here is a manual on how to self-host a domain [here](https://www.youtube.com/watch?v=_eQGAJVtRCs) (by Soeng Souy)
